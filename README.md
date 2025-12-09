@@ -28,11 +28,5 @@
 - Containerize and deploy applications  
 - Improve system reliability and performance
 
-### 🚀 Find more
-
-### 🔗 Find more:
-- [furqanalihunzai](https://github.com/furqanalihunzai)
-- [furqanalihunzai1](https://github.com/furqanalihunzai1)
-
 
 
