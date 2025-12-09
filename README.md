@@ -30,8 +30,9 @@
 
 ### 🚀 Find more
 
-[(https://github.com/furqanalihunzai)]
+### 🔗 Find more:
+- [furqanalihunzai](https://github.com/furqanalihunzai)
+- [furqanalihunzai1](https://github.com/furqanalihunzai1)
 
-[(https://github.com/furqanalihunzai1)]
 
 
