@@ -3,7 +3,7 @@
 ### **DevOps | SRE**
 
 🌍 I'm based in **Tallinn, Estonia**  
-✉️ You can contact me at **info.alifurqan@gmail.com**  
+✉️ You can contact me at **furqanaliwork@gmail.com**  
 🧠 I'm learning everything about **DevOps & SRE**  
 🤝 I'm open to collaborating on anything related to **DevOps & SRE**
 
